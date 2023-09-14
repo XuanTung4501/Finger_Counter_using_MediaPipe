@@ -1,5 +1,5 @@
 # Finger_Counter_using_MediaPipe
-## Instal
+## Install
 ```bash
 git clone https://github.com/XuanTung4501/Finger_Counter_using_MediaPipe.git
 cd Finger_Counter_using_MediaPipe
